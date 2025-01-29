@@ -6,10 +6,10 @@ const message = document.getElementById('message');
 
 // Valentine's Gifts (Images & Messages)
 const gifts = [
-    { img: "heart.png", text: "You’re my special Valentine! 💖" },
-    { img: "chocolate.png", text: "A sweet treat for a sweet person! 🍫" },
-    { img: "rose.png", text: "A rose for someone beautiful! 🌹" },
-    { img: "teddy.png", text: "A hug from this little teddy! 🧸" }
+    { img: "images/heart.png", text: "You’re my special Valentine! 💖" },
+    { img: "images/chocolate.png", text: "A sweet treat for a sweet person! 🍫" },
+    { img: "images/rose.png", text: "A rose for someone beautiful! 🌹" },
+    { img: "images/teddy.png", text: "A hug from this little teddy! 🧸" }
 ];
 
 box.addEventListener('click', function() {
